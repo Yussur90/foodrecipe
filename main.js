@@ -14,9 +14,11 @@ $(document).ready(function(){
 
 
             $(Recipes[i].imageId).on('click',function(){
+
                   var choo = "#"+this.id
 
                   for (var j = 0; j < i; j++) {
+                    
                        if(choo=== Recipes[j].imageId){
 
                         $(".para").text(Recipes[j].description)
@@ -34,10 +36,11 @@ $(document).ready(function(){
 
       $( "#btn1" ).on( "click", function() {
 
-            var d = new Date();
+            var date = new Date();
+
             var comment = $("#txt1").val();
        
-       $( '#addComm' ).append( "<li>"+comment+" ------- "+d+"</li>");
+       $( '#addComm' ).append( "<li>"+comment+" ------- "+date+"</li>");
 
 });
 
