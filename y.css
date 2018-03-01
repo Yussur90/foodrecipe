@@ -1,11 +1,13 @@
-body{
+body {
+
 	font-family: serif;
 	font-size: 20px	;
 	color: gray;
 
 }
 
-#img1{
+#img1 {
+
 	height: 100px;
 	width:150px;
 	margin-left:50px;
@@ -14,14 +16,14 @@ body{
 
 }
 
-.header{
+.header {
+
 	background-color:gray;
-	
     margin-left:15px;
     margin-right:15px;
 }
 
-#img2{
+#img2 {
 
 	margin-left:1000px;
     height: 150px;
@@ -31,39 +33,43 @@ body{
 
 #radio1 {
 
-margin-top: 100px;
-
+	margin-top: 100px;
 }
 
-#img3{
-height: 250px;
+#img3 {
+
+	height: 250px;
 	width:300px;
 	margin-left:100px;
 }
-#img4{
-height: 250px;
+
+#img4 {
+
+	height: 250px;
 	width:300px;
 	margin-left:40px;
 }
-#img5{
-height: 250px;
-width:300px;
-margin-left:40px;
+
+#img5 {
+
+	height: 250px;
+	width:300px;
+	margin-left:40px;
 
 }
 
-#img6{
-height: 250px;
-width:300px;
-margin-left:40px;
+#img6 {
+
+	height: 250px;
+	width:300px;
+	margin-left:40px;
 
 }
 
-#divuu{
-
+#divuu {
+	
 	margin-top:100px;
 	margin-left:20px;
-	/*background-color: red;*/
 }
 
 
