@@ -1,18 +1,30 @@
-#img1{
-	height: 150px;
-	width:200px;
-	margin-left:50px;
+body{
+	font-family: serif;
+	font-size: 20px	;
+	color: gray;
 
 }
 
-.yussur{
-	background-color:pink;
+#img1{
+	height: 100px;
+	width:150px;
+	margin-left:50px;
+	margin-top:10px;
+	margin-bottom: 10px;
+
+}
+
+.header{
+	background-color:gray;
+	
+    margin-left:15px;
+    margin-right:15px;
 }
 
 #img2{
 
-	margin-left:700px;
- height: 150px;
+	margin-left:1000px;
+    height: 150px;
 	width:200px;
 
 }
@@ -24,6 +36,97 @@ margin-top: 100px;
 }
 
 #img3{
-height: 150px;
-	width:200px;
+height: 250px;
+	width:300px;
+	margin-left:100px;
 }
+#img4{
+height: 250px;
+	width:300px;
+	margin-left:40px;
+}
+#img5{
+height: 250px;
+width:300px;
+margin-left:40px;
+
+}
+
+#img6{
+height: 250px;
+width:300px;
+margin-left:40px;
+
+}
+
+#divuu{
+
+	margin-top:100px;
+	margin-left:20px;
+	/*background-color: red;*/
+}
+
+
+
+
+
+#food{
+
+/*background-color: orange;*/
+margin-top:80px;
+height: 300px;
+width:1000px;
+margin-left:200px;
+}
+
+
+
+#footer{
+	background-color:gray;
+	 margin-left:15px;
+    margin-right:15px;
+}
+
+
+
+.footer{
+	margin-left:750px;
+	color:black;
+	font-weight: bold;
+}
+
+
+
+
+#btn1{
+	background-color:#808080;
+	font-weight: bold;
+	height: 30px;
+}
+
+
+
+#addComm{
+	margin-left:150px;
+}
+
+
+#txt1{
+	width: 300px;
+	height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
